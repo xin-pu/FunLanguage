@@ -27,6 +27,7 @@ namespace UnitTest.Tests
                 Print(d);
             });
             add(1, 2);
+            TestFun();
         }
     }
 }
